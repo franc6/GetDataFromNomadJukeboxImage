@@ -36,3 +36,5 @@ might fail miserably for you.
 
 WARNING: Removing the hard disk from the MP3 player will void the MP3
 player's warranty!
+
+[![Buy me some pizza](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/qpunYPZx5)
